@@ -1,5 +1,5 @@
 #Platzom
-Platzom es un idioma inventado para el curso de Fundamentos de Javascript en Platzi.
+Platzom es un idioma inventado por los dioses
 
 ##Descripcion del idioma
 - Si una palabra termina en ar, le quitamos las dos ultimas letras.
